@@ -1,0 +1,4 @@
+# %%
+caracter = input()
+print(caracter)
+# %%
